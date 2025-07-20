@@ -13,12 +13,13 @@ This project replicates the basic UI of Spotify’s web player for learning and 
 - CSS3  
 - Git & GitHub
 
-## ✅ Features
+## ✨ Features
 
-- Spotify-inspired layout
-- Static front-end interface
-- Custom styling with CSS
-- Responsive design
+- 🎵 Spotify-style layout with a sidebar, main content, and player bar
+- 💻 Desktop-first responsive design
+- 🖼️ Static content with album covers and icons
+- 🌈 Custom CSS for design accuracy
+- 💡 Beginner-friendly structure and readable code
 
 ## 🙋‍♂️ Author
 
