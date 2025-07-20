@@ -13,15 +13,6 @@ This project replicates the basic UI of Spotify’s web player for learning and 
 - CSS3  
 - Git & GitHub
 
-## 📁 Project Structure
-Spotify-Clone/
-├── index.html
-├── style.css
-├── assets/
-│   └── images/
-└── README.md
-
-
 ## ✅ Features
 
 - Spotify-inspired layout
